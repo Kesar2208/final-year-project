@@ -1,0 +1,45 @@
+﻿City,Year,Policy Type,Policy Impact (%),Fuel Type,Policy Start Date,Policy End Date,Vehicle Category
+Delhi,2019,EV Subsidy,15%,EV,07-Dec-19,31-Mar-25,Car 
+Delhi,2020,EV Subsidy,15%,EV,01-Jan-20,31-Mar-25,Car 
+Delhi,2021,EV Subsidy,15%,EV,01-Jan-21,31-Mar-25,Car 
+Delhi,2022,EV Subsidy,15%,EV,01-Jan-22,31-Mar-25,Car 
+Delhi,2023,EV Subsidy,15%,EV,01-Jan-23,31-Mar-25,Car 
+Delhi,2024,EV Subsidy,15%,EV,01-Jan-24,31-Mar-25,Car 
+Delhi,2019,EV Subsidy,40%,EV,07-Dec-19,31-Mar-25,Two-Wheeler
+Delhi,2020,EV Subsidy,40%,EV,01-Jan-20,31-Mar-25,Two-Wheeler
+Delhi,2021,EV Subsidy,40%,EV,01-Jan-21,31-Mar-25,Two-Wheeler
+Delhi,2022,EV Subsidy,40%,EV,01-Jan-22,31-Mar-25,Two-Wheeler
+Delhi,2023,EV Subsidy,40%,EV,01-Jan-23,31-Mar-25,Two-Wheeler
+Delhi,2024,EV Subsidy,40%,EV,01-Jan-24,31-Mar-25,Two-Wheeler
+Delhi,2019,CNG Promotion,10%,CNG,01-Jan-19,Ongoing,Car 
+Delhi,2020,CNG Promotion,12%,CNG,01-Jan-20,Ongoing,Car 
+Delhi,2021,CNG Promotion,15%,CNG,01-Jan-21,Ongoing,Car 
+Delhi,2022,CNG Promotion,18%,CNG,01-Jan-22,Ongoing,Car 
+Delhi,2023,CNG Promotion,20%,CNG,01-Jan-23,Ongoing,Car 
+Delhi,2024,CNG Promotion,22%,CNG,01-Jan-24,Ongoing,Car 
+Delhi,2024,Ban on 10-Year-Old Diesel Vehicles,,Diesel,01-Oct-24,Ongoing,Car 
+Delhi,2024,Ban on 15-Year-Old Petrol Vehicles,,Petrol,02-Oct-24,Ongoing,Car 
+Delhi,2024,Restriction on BS-IV Diesel,,Diesel,01-Jan-24,17-Nov-24,Car 
+Delhi,2024,Restriction on BS-III Petrol ,,Petrol,01-Jan-24,17-Nov-24,Car 
+Mumbai,2019,EV Subsidy,15%,EV,07-Dec-19,31-Mar-25,Car 
+Mumbai,2020,EV Subsidy,15%,EV,01-Jan-20,31-Mar-25,Car 
+Mumbai,2021,EV Subsidy,15%,EV,01-Jan-21,31-Mar-25,Car 
+Mumbai,2022,EV Subsidy,15%,EV,01-Jan-22,31-Mar-25,Car 
+Mumbai,2023,EV Subsidy,15%,EV,01-Jan-23,31-Mar-25,Car 
+Mumbai,2024,EV Subsidy,15%,EV,01-Jan-24,31-Mar-25,Car 
+Mumbai,2019,EV Subsidy,40%,EV,07-Dec-19,31-Mar-25,Two-Wheeler
+Mumbai,2020,EV Subsidy,40%,EV,01-Jan-20,31-Mar-25,Two-Wheeler
+Mumbai,2021,EV Subsidy,40%,EV,01-Jan-21,31-Mar-25,Two-Wheeler
+Mumbai,2022,EV Subsidy,40%,EV,01-Jan-22,31-Mar-25,Two-Wheeler
+Mumbai,2023,EV Subsidy,40%,EV,01-Jan-23,31-Mar-25,Two-Wheeler
+Mumbai,2024,EV Subsidy,40%,EV,01-Jan-24,31-Mar-25,Two-Wheeler
+Mumbai,2019,CNG Promotion,8%,CNG,01-Jan-19,Ongoing,Car 
+Mumbai,2020,CNG Promotion,10%,CNG,01-Jan-20,Ongoing,Car 
+Mumbai,2021,CNG Promotion,12%,CNG,01-Jan-21,Ongoing,Car 
+Mumbai,2022,CNG Promotion,14%,CNG,01-Jan-22,Ongoing,Car 
+Mumbai,2023,CNG Promotion,16%,CNG,01-Jan-23,Ongoing,Car 
+Mumbai,2024,CNG Promotion,18%,CNG,01-Jan-24,Ongoing,Car 
+Mumbai,2025,Proposed Ban on Petrol Vehicle,,Petrol,01-Jan-25,Ongoing,Car 
+Mumbai,2025,Proposed Ban on Diesel Vehicle,, Diesel,02-Jan-25,Ongoing,Car 
+Mumbai,2022,Diesel Vehicle Registration Increase,32%,Diesel,01-Jan-22,31-Dec-22,Car 
+Mumbai,2023,Diesel Vehicle Registration Increase,4%,Diesel,01-Jan-23,31-Dec-23,Car 

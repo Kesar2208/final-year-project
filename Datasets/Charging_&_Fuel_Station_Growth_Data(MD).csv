@@ -1,0 +1,11 @@
+﻿City,Year,EV Charging Stations,CNG Stations,Petrol/Diesel Stations,EV Growth(%),CNG Growth(%),Petrol/Diesel Growth(%),Charging Utilization (%),Total Energy Dispensed (kWh),Avg Hours Per Day Used
+Maharastra,2020,95,380,5800,0,0,0,34.25,5000000,8
+Maharastra,2021,140,450,5725,200,3.33,-0.8,17.14,7500000,8
+Maharastra,2022,200,515,5620,100,3.23,-0.81,13.7,12000000,8
+Maharastra,2023,260,570,5500,54,0,-0.81,13.2,17724000,8
+Maharastra,2024,317,622,5419,30,3.13,-0.82,13.15,23000000,8
+Delhi,2020,20,300,450,0,0,0,51.44,30000000,8
+Delhi,2021,28,340,440,40,13.33,-2.22,61.42,50000000,8
+Delhi,2022,38,385,430,36,13.24,-2.27,76.99,80000000,8
+Delhi,2023,52,420,415,37,9.09,-3.49,83.88,113256000,8
+Delhi,2024,72,456,400,38,8.57,-3.61,82.13,150000000,8
