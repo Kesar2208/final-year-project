@@ -17,8 +17,8 @@ This project explores vehicle sales trends and forecasts for different fuel type
 - [Dashboard/](./Dashboard/) — Power BI/Tableau dashboards to visualize trends and forecasts  
 - [Resale_Calculator/](./Script/) — Tool for comparing resale vs. new vehicle pricing  
 - [Running_Cost_Calculator/](./Script/) — Estimates cost of ownership by fuel type  
-- [presentation/](./presentation/) — Final presentation slides  
-- [Paper/](./final-year-project/) — Full research paper with methodology, results, and citations  
+- **Presentation File** — Final presentation slides  
+- **Research Paper** — Full research paper with methodology, results, and citations  
 - [README.md](./README.md) — Overview and usage guide
 
 ---
