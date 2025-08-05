@@ -15,10 +15,10 @@ This project explores vehicle sales trends and forecasts for different fuel type
 - [Datasets/](./Datasets/) — Vehicle sales, fuel price, infrastructure & policy datasets  
 - [Script/](./Script/) — Python scripts and notebooks for analysis and modeling  
 - [Dashboard/](./Dashboard/) — Power BI/Tableau dashboards to visualize trends and forecasts  
-- [resale_new_calculator/](./Script/ResaleNew/) — Tool for comparing resale vs. new vehicle pricing  
-- [running_cost_calculator/](./Script/RunningCost/) — Estimates cost of ownership by fuel type  
+- [Resale_Calculator/](./Script/) — Tool for comparing resale vs. new vehicle pricing  
+- [Running_Cost_Calculator/](./Script/) — Estimates cost of ownership by fuel type  
 - [presentation/](./presentation/) — Final presentation slides  
-- [paper/](./Research_Paper/) — Full research paper with methodology, results, and citations  
+- [Paper/](./Research_Paper/) — Full research paper with methodology, results, and citations  
 - [README.md](./README.md) — Overview and usage guide
 
 ---
@@ -94,3 +94,4 @@ This project explores vehicle sales trends and forecasts for different fuel type
 ## License
 
 For academic and educational purposes only.
+
